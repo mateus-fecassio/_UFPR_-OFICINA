@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=CSOxmG-MLq4&list=PL3ZslI15yo2q8FMipG88eWRYFB_qO877B&index=1
+https://www.cprogressivo.net/2013/10/Lista-simplesmente-encadeada-com-cabeca-em-C-Inserindo-nos-no-inicio-e-fim.html
+https://www.youtube.com/watch?v=R3SwH_ttpZo
+
+
+https://pt.wikibooks.org/wiki/Programar_em_C/Entrada_e_sa%C3%ADda_em_arquivos
+https://www.cprogressivo.net/2013/10/Operacoes-com-arquivos-FILE-fopen-modos-de-abertura-fechamento-modo-texto-binario-EOF-fclose-fcloseall.html
+https://www.cprogressivo.net/2013/11/Escrevendo-em-arquivos-As-funcoes-fputc-fprintf-fputs.html
+
+http://www.cplusplus.com/reference/cstdlib/atoi/
+http://www.cplusplus.com/reference/cstdlib/itoa/
+
+http://wiki.inf.ufpr.br/maziero/doku.php?id=ofcomp:start
+http://www.br-c.org/doku.php?id=strtok

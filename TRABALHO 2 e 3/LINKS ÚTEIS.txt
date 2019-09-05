@@ -1,0 +1,33 @@
+MODELO 3D (.obj):
+http://www.inf.ufpr.br/murilo/oficina/oficina.html
+
+http://wiki.inf.ufpr.br/maziero/doku.php?id=ofcomp:visualizacao_de_modelos_3d
+
+https://www.reviversoft.com/pt/file-extensions/obj
+
+https://en.wikipedia.org/wiki/Wavefront_.obj_file
+
+https://www.youtube.com/watch?v=5RgN-5-gM-M
+https://3dviewer.net/
+
+
+
+
+
+
+http://www.creativefan.com/top-30-sites-to-download-free-3d-models/
+49 SITES COM MODELOS 3D GRÁTIS:
+https://www.apptuts.com.br/tutorial/web/sites-com-modelos-3d-gratis/
+ - https://3dwarehouse.sketchup.com/
+ - https://www.turbosquid.com/
+ - https://free3d.com/3d-models/triangle
+
+COMVERSORES ENTRE MODELOS 3D
+https://www.meshconvert.com/
+https://cadsetterout.com/resources/babel3dcom-free-3d-file-conversion/
+
+ARQUIVOS BINÁRIOS
+ - http://www.lis.ic.unicamp.br/~mc102/files/mc102jk-a27-4pp.pdf
+
+
+http://www.dainf.ct.utfpr.edu.br/~rminetto/
